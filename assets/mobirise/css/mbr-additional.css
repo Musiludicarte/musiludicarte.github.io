@@ -14787,6 +14787,19 @@ section.lazy-placeholder:after {
 .cid-reAao28D7R .media-container-row .row-copirayt p {
   width: 100%;
 }
+.cid-rVv8PX4jAM {
+  background: #00a7f5;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rVv8PX4jAM .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rVv8PX4jAM .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rBRdQbAZRy {
   background: #00a7f5;
   padding-top: 60px;
