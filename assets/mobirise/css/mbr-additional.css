@@ -688,7 +688,8 @@ blockquote {
 .lazy-bg {
   background-image: none !important;
 }
-.lazy-placeholder:not(section) {
+.lazy-placeholder:not(section),
+.lazy-none {
   display: block;
   position: relative;
   padding-bottom: 56.25%;
@@ -20380,6 +20381,20 @@ section.lazy-placeholder:after {
 @media (min-width: 767px) {
   .cid-raeWI2Ojsi .menu-logo {
     flex-shrink: 0;
+  }
+}
+.cid-rYOchaMzzJ {
+  background: #00a7f5;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #00a7f5, #00a7f5);
+}
+.cid-rYOchaMzzJ .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rYOchaMzzJ .video-block {
+    width: 100% !important;
   }
 }
 .cid-rUarPbJchZ {
