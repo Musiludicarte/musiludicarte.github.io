@@ -23069,6 +23069,20 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-sdffjCJGLT {
+  background: #00a7f5;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #00a7f5, #00a7f5);
+}
+.cid-sdffjCJGLT .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-sdffjCJGLT .video-block {
+    width: 100% !important;
+  }
+}
 .cid-sddC8HV9cm {
   background: #00a7f5;
   padding-top: 60px;
