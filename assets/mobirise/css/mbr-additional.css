@@ -23013,6 +23013,20 @@ section.lazy-placeholder:after {
 .cid-reA9vthyUB .media-container-row .row-copirayt p {
   width: 100%;
 }
+.cid-sdT5XZmGO6 {
+  background: #00a7f5;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #00a7f5, #00a7f5);
+}
+.cid-sdT5XZmGO6 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-sdT5XZmGO6 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-sddBKu5Wwv {
   background: #00a7f5;
   padding-top: 60px;
